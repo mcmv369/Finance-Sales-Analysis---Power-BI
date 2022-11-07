@@ -15,3 +15,5 @@ Generated Finance and Sales dashboard from scratch which improve the organizatio
 - YOY % (year of year)
 - Profit and Loss Values (P & L values)
 - Profit and Loss Last Year
+- Year to date (YTD)
+- Year to Go (YTG)
