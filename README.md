@@ -1,13 +1,18 @@
 # Finance-Analysis---Power-BI
-Generated Finance and Sales dashboard from scratch which improve the organization in gross margin improvement 
+Generated Finance and Sales dashboard from scratch which improve the organization in gross margin improvement
+# Steps
+- Data import from MySQL
+- Performed ETL
+- Data Modelling
+- created Dashboards
 # Data Model
 ![image](https://user-images.githubusercontent.com/114512832/200363392-ed4a71e5-408d-423f-9ff4-c666166257f8.png)
 # Finance Dashboard
 ![atliq Insights_page-0001](https://user-images.githubusercontent.com/114512832/200368051-14a0845c-9d5d-4622-ba0e-f3e3984ca0ba.jpg)
 # Learnt things from this dashboard
 - Imp. finance formulaes such as Gross margin , gross margin %, Net profit, net profit % ...etc.
-- Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection.
-- creating quarterly years 
+- how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection.
+- knowledge on Fiscal year, COGS 
 - IF ,Calcualate,switch,Hasonevalue statements and getting month/day/year from date
 - concatinating text i.e adding text
 - Understanding the business requirement based on the data.
