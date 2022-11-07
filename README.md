@@ -1,4 +1,5 @@
 # Finance-Analysis---Power-BI
+Hardware Company want to stores all around the world and they want to know the complete insights of their company,like where its performing well and where its going down. etc. all these things to improve their gross margin
 Generated Finance and Sales dashboard from scratch which improve the organization in gross margin improvement
 # Steps
 - Data import from MySQL
