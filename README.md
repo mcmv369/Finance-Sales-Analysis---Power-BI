@@ -9,7 +9,7 @@ Generated Finance and Sales dashboard from scratch which improve the organizatio
 # Data Model
 ![image](https://user-images.githubusercontent.com/114512832/200363392-ed4a71e5-408d-423f-9ff4-c666166257f8.png)
 # Finance Dashboard
-![atliq Insights_page-0001](https://user-images.githubusercontent.com/114512832/200368051-14a0845c-9d5d-4622-ba0e-f3e3984ca0ba.jpg)
+![atliq Insights_page-0001 (1)](https://user-images.githubusercontent.com/114512832/200478057-13a4fa13-c1a4-4f4c-905c-16fad9d8fdd5.jpg)
 # Learnt things from this dashboard
 - Imp. finance formulaes such as Gross margin , gross margin %, Net profit, net profit % ...etc.
 - how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection.
